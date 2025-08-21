@@ -1,0 +1,29 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "📝❯❯  Regulamin serwera",
+      "description": "**PAMIĘTAJ - FAKT, ŻE NIE ZNASZ REGULAMINU NIE ZWALNIA CIĘ Z JEGO PRZESTRZEGANIA! **",
+      "color": 6291597,
+      "fields": [
+        {
+          "name": "× Serwer Discord",
+          "value": "⬩ `1.1` - Zakazuje się podszywania pod administracje serwera\n\n⬩ `1.2`- Zakazuje się używania wulgaryzmów i wszelkich form nienawiści (wszelkie obraźliwe działania skierowane przeciwko jakimkolwiek fandomom, grupom, religiom, osobom lub organizacjom będą karane)\n\n⬩ `1.3` - Wszelkie zachowania nie stosowne i nie odpowiednie będą karane\n\n⬩ `1.4` - Zakazuje się proszenia o np. rangi administracyjne\n\n⬩ `1.5` - Administracja może cię ukarać za coś czego nie ma w regulaminie\n\n⬩ `1.6` - Zakaz proszenia o sprawdzenie np. karty postaci\n\n⬩ `1.7` - Spam, flood i tego typu zachowania są karane warne\n\n⬩ `1.8` - Administrator może ukarać cię za coś czego nie ma w regulaminie jeśli uzna, że to konieczne\n\n⬩ `1.9` - Zakazuje się używania komendy /blackjack na ekonomii i innych komend hazardowych oraz komend /crime /rob i /slut"
+        },
+        {
+          "name": "× Roleplay",
+          "value": "⬩ `2.1` - Zakazuje się wszelkiego rodzaju bojówki\n\n⬩ `2.2` - By wykonać FCK na kimś musisz wypełnić podanie (na tickecie) i musi ono być zaakceptowane przez administratora o randze co najmniej Admin lub przez opiekuna crime\n\n⬩ `2.3` - By wykonać CK musisz złożyć wniosek na stronie serwera w panelu użytkownika\n\n⬩ `2.4` - Zakazuje się MG, RDM, PG, CN, RK, CL itp\n\n⬩ `2.5` - Zakazuje się używania meta zwrotów\n\n⬩ `2.6` - Zakazuje się  posiadania broni długiej bez pozwolenia\n\n⬩ `2.7` - Ze  sklepu z bronią można ukraść TYLKO pistolet **M9 Beretta**\n\n⬩ `2.8` - Zakaz wchodzenia na incydenty i mówienia OOC\n\n⬩ `2.9` - Administrator może ukarać cię za coś czego nie ma w regulaminie jeśli uzna, że to konieczne."
+        }
+      ],
+      "author": {
+        "name": "Aurora Roleplay",
+        "icon_url": "https://cdn.discordapp.com/attachments/1406769896032960645/1407312187613253734/zzz.png?ex=68a8481c&is=68a6f69c&hm=868e731d1d51d87ac454773782dd1230355f519c93f7b50664e8778cfefe0e29&"
+      },
+      "footer": {
+        "text": "Regulamin ważny od"
+      },
+      "timestamp": "2025-08-21T14:10:00.000Z"
+    }
+  ],
+  "attachments": []
+}
