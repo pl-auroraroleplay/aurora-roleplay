@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="pl">
 <head>
+  <meta id="vp" name="viewport" content="width=device-width, initial-scale=1">
+<script>
+  (function () {
+    var targetWidth = 1280; // "szerokość desktopu"
+    var scale = screen.width / targetWidth; // np. 360/1280 ≈ 0.28
+    var vp = document.getElementById('vp');
+    vp.setAttribute('content', 'width=' + targetWidth + ', initial-scale=' + scale + ', maximum-scale=' + scale + ', user-scalable=no');
+  })();
+</script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Aurora Roleplay</title>
@@ -54,3 +63,4 @@
 </footer>
 </body>
 </html>
+
