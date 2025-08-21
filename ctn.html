@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="pl">
 <head>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1">
+<script>
+  (function () {
+    var targetWidth = 1280; // "szerokość desktopu"
+    var scale = screen.width / targetWidth; // np. 360/1280 ≈ 0.28
+    var vp = document.getElementById('vp');
+    vp.setAttribute('content', 'width=' + targetWidth + ', initial-scale=' + scale + ', maximum-scale=' + scale + ', user-scalable=no');
+  })();
+</script>
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
@@ -57,3 +66,4 @@
 </footer>
 </body>
 </html>
+
